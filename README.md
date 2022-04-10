@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # BCIjavaTest
 test java bci
-#documentacion API
+# documentacion API
 http://localhost:8080/swagger-ui.html
 # pruebas unitarias
 https://www.getpostman.com/collections/0edc393046018f726938
@@ -12,6 +12,5 @@ https://github.com/DanielaFloresC/BCIjavaTest/blob/b1bca16599a56cc2a5ace0502250b
 h2
 # Servidor 
 Tomcat
-=======
 # DesafioBci
->>>>>>> 6a7556f6439ff287e7fe4500e97c20c4d4b19cd5
+
